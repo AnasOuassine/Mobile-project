@@ -13,6 +13,3 @@ Cine is your movie guide. The fastest and easiest way to find Movies, Actors and
 
 - [TMDb](https://developers.themoviedb.org/3/getting-started/introduction)
 
-## Dribbble
-
-https://dribbble.com/shots/5409613-Cinema-App-UI
